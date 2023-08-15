@@ -1,3 +1,3 @@
 # UTR
-introduction to the theory of computing tasks
+introduction to the theory of computing - tasks
 
