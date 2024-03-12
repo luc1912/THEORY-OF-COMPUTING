@@ -1,14 +1,14 @@
-# THEORY OF COMPUTING
-introduction to the theory of computing - tasks
+# UTR
+laboratorijske vježbe iz predmeta "Uvod u teoriju računarstva"
 
 # lab1
-simulation of ε-NKA 
+simulacija ε-NKA 
 
 # lab2
-minimisation of DKA
+simulacija DKA
 
 # lab3
-simulation of a push automaton
+simulacija potisnog automata
 
 # lab4
-simulation of LR parser
+simulacija LR parsera
